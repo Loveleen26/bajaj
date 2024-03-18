@@ -1,0 +1,5 @@
+{
+    "company": "Bajaj Finserv",
+    "currentPrice": 1,573.65,
+    "accountNumber": "2110992021"
+}
