@@ -34,7 +34,7 @@ data_2 = {
     "company": COMPANY,
     "currentPrice": current_price,
     "accountNumber": acc,
-    "githubRepoLink" : "https://github.com/udit-2026/Bajaj-Finserv"
+    "githubRepoLink" : "https://github.com/Loveleen26/bajaj"
 }
 response_2 = requests.post(api_url_2, json=data_2, headers=headers_2)
 
